@@ -7,3 +7,6 @@
 5. Type comma seperate list of list.fm usernames
 6. Website sometimes requests BAD GATEWAY (We made this in 3 days 😉), but if goes as planned will open to a Spotify playlist page
 7. You will see that the playlist has today's date as the name and holds a variety of songs based on the genre's of music you listen to
+
+Made with *Vinay Venkat* & *Edwin Wang* at CruzHacks2020
+Devpost: https://devpost.com/software/uniaux
