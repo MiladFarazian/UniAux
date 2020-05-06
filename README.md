@@ -1,4 +1,4 @@
-## Using Our Program to Automate a Unique Playlist!
+## Using Our Program to Automate a Unique Playlist! 
 **Generates Spotify Playlist, Only had time to work with Spotify API**
 1. (**Create/Sign into**) a last.fm account www.last.fm/
 2. Set up *Scrobbling* feature through host of different streaming platforms www.last.fm/about/trackmymusic
