@@ -10,3 +10,6 @@
 
 Made with *Vinay Venkat* & *Edwin Wang* at CruzHacks2020
 Devpost: https://devpost.com/software/uniaux
+
+Website currently down, but here's a video of what the outcome of the project was.
+[![UniAux](https://img.youtube.com/vi/cdw3m2BjpfI/0.jpg)](https://www.youtube.com/watch?v=cdw3m2BjpfI)
